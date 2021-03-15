@@ -6,7 +6,4 @@
 - 🌱 I’m currently learning Java, I'm also interested in Cpp, JavaScript
 - 👯 I’m looking to collaborate on open source
 - 💬 Ask me about anything if I know
-- ⚡ **Import**: My previous was [stalern](www.github.com/stalern)
-
-
-<-- 📫 How to reach me: ...😄 Pronouns: ... -->
+- ⚡ **Import**: My previous account of Github was [stalern](www.github.com/stalern)
