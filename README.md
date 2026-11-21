@@ -1,4 +1,4 @@
-# Hi, I’m Sibo Wang (@wxxlamp)
+# Hi, I’m Kai (@wxxlamp)
 
 I’m a software engineer at **Alibaba Group**, where I build financial systems and AI agents for **Taobao and Tmall**. Before this role, I worked on transaction reliability and fund settlement for cross-border B2B commerce.
 
